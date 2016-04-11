@@ -1,0 +1,9 @@
+# Hoved hjemmesider
+# http://www.astridlindgrenshem.se/
+# http://www.astridlindgrensallskapet.se/
+
+# Kalender:
+# http://www.astridlindgrensallskapet.se/boka-visning/
+
+# Om besøget:
+# http://www.astridlindgrensallskapet.se/boka-visning/bra-att-veta-infor-ditt-besok/
